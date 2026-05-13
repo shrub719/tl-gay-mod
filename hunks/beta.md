@@ -1,7 +1,7 @@
 # beta
 
-**offset:** 458ba4
-**patches**: compatiblity tester
+**offset:** 458ba4  
+**patches**: compatiblity tester  
 *"The compatibility tester now defaults to romance ratings regardless of miis' gender."*
 
 ```

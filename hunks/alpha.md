@@ -1,7 +1,7 @@
 # alpha
 
-**offset:** 232a34
-**patches:** housing
+**offset:** 232a34  
+**patches:** housing  
 *"Stable housing for gay miis."*
 
 - nopping 0x232a34 makes absolutely no housing appear
