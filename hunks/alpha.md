@@ -5,6 +5,7 @@
 *"Stable housing for gay miis."*
 
 - nopping 0x232a34 makes absolutely no housing appear
+- it's branched to during startup
 
 ```
 ldr r1, [r9, #0x15c]
