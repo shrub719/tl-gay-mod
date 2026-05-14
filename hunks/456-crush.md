@@ -1,7 +1,8 @@
 # 456xxx crush
 
-**patches:** FUN_00556104
-**purpose:** deciding crushes (i think)
+**patches:** FUN_00556104  
+**purpose:** deciding crushes (i think)  
+*"All miis are now bisexual: love events including **confessions**, rivalries, marriage, and childbirth are no longer gender restricted."*
 
 - opened the game several times to only black/orange windows, no freeze
 - froze on screenshots below (is that a pixel of pink or is it just me?)
@@ -12,9 +13,9 @@
 - sometimes it freezes on the white flash, sometimes on the island preview - is graphics async
   to window logic?
 
-![](./assets/456-1.png)
-![](./assets/456-2.png)
-![](./assets/456-3.png)
+![](./assets/456-1.png)  
+![](./assets/456-2.png)  
+![](./assets/456-3.png)  
 
 ## hunks
 
